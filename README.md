@@ -15,8 +15,12 @@ My name's Alberto Pérez, I'm from Spain and I'm a Data Engineer.
     * Sistemas microinformáticos y redes.
 
 # Skills
-    * SQL SERVER
-    * Python
-    * Java
-    * Html5
-    * CSS3
+* BBDD
+  * Sql Serer
+  * SSIS
+  * SSDT
+* Language
+  * Python
+  * Java
+  * Html5
+  * CSS3
