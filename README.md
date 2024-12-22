@@ -59,7 +59,7 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
 - **Catalán**:  
   `████████████████████████████████████████████████████████████████` (100%)
 - **Ingles**:  
-  `██████████████████████████                                        ` (40%)  
+  `██████████████████████████                                      ` (40%)  
 
 ---
 
@@ -136,7 +136,7 @@ I am a Data Engineer passionate about technology and solving complex problems th
 - **Catalán**:  
   `████████████████████████████████████████████████████████████████` (100%)
 - **English**:  
-  `██████████████████████████                                        ` (40%)  
+  `██████████████████████████                                      ` (40%)  
 
 ---
 
