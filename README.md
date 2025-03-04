@@ -124,7 +124,10 @@ I am a Data Engineer passionate about technology and solving complex problems th
 
 ### Data Processing and Orchestration  
 - **Amazon S3**: Configuration and management of data lakes for storing large volumes of structured and unstructured data, ensuring accessibility, security, and efficient data retrieval.
+- **AWS Glue**: Development and management of serverless ETL processes, automation of data integration and transformation tasks, and creation of data catalogs to facilitate analytical queries.
+- **AWS Athena**: Execution of interactive SQL queries on data stored in Amazon S3 without infrastructure management, performance optimization through partitioning and data compression.
 - **Apache Airflow**: Design and automation of data pipelines, orchestration of complex tasks with dependencies, execution monitoring, and workflow optimization for improved data processing efficiency.
+- **Apache Iceberg**: Efficient data management in tabular format within data lakes, enabling ACID transactional queries on large datasets, schema evolution, and time-travel queries without performance degradation.
 - **Docker**: Containerization of applications for consistent development and production environments, creation and management of Docker images, orchestration with Docker Compose, and deployment in cloud and on-premises infrastructures.
 
 ### Programming Languages  
