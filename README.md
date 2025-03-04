@@ -46,6 +46,7 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
 - **AWS Glue**:
 - **AWS Athena**:
 - **Apache Airflow**: Diseño y automatización de pipelines de datos, orquestación de tareas complejas con dependencias, monitoreo de ejecuciones y optimización de workflows para mejorar la eficiencia del procesamiento de datos.
+- **Docker**: Contenerización de aplicaciones para garantizar entornos de desarrollo y producción consistentes, creación y gestión de imágenes Docker, orquestación con Docker Compose y despliegue en infraestructuras cloud y on-premise.
 
 ### Lenguajes de Programación
 - **Python**: Desarrollo de scripts para automatización de procesos, manipulación y análisis de datos con librerías como Pandas y NumPy, implementación de ETL y desarrollo de API REST con frameworks como Flask y FastAPI.
