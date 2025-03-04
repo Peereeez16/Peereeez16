@@ -34,22 +34,21 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
 
 ---
 
-## Habilidades Técnicas  
+## Habilidades Técnicas
+### Bases de Datos y Herramientas
+- **Diseño, implementación y gestión de bases de datos**: Experiencia en modelado relacional y no relacional, normalización de datos, optimización de estructuras y administración de esquemas de bases de datos.
+- **SQL Server**: Amplia experiencia en consultas avanzadas, optimización de rendimiento, creación de índices, procedimientos almacenados, funciones definidas por el usuario y triggers.
+- **SSIS (SQL Server Integration Services)**: Desarrollo de procesos ETL para la extracción, transformación y carga de datos desde múltiples fuentes, automatización de flujos de datos y manejo de errores en la integración.
+- **SSDT (SQL Server Data Tools)**: Diseño y desarrollo de proyectos de bases de datos en SQL Server, implementación de cambios en entornos de desarrollo y producción mediante control de versiones y despliegues automatizados.
 
-### Bases de Datos y Herramientas  
-- **BBDD**: Diseño, implementación y gestión de bases de datos.  
-- **SQL Server**: Experiencia en consultas avanzadas y optimización.  
-- **SSIS**: Creación de flujos de datos y procesos ETL.  
-- **SSDT**: Diseño y desarrollo de proyectos de bases de datos en SQL Server.  
+### Procesamiento y Orquestación de Datos
+- **Amazon S3**: Configuración y gestión de data lakes para el almacenamiento de grandes volúmenes de datos estructurados y no estructurados, asegurando accesibilidad, seguridad y eficiencia en la recuperación de información.
+- **Apache Airflow**: Diseño y automatización de pipelines de datos, orquestación de tareas complejas con dependencias, monitoreo de ejecuciones y optimización de workflows para mejorar la eficiencia del procesamiento de datos.
 
-### Procesamiento y Orquestación de Datos  
-- **Amazon S3**: Configuración y gestión de data lakes.  
-- **Airflow**: Orquestación y automatización de workflows de datos.  
-
-### Lenguajes de Programación  
-- **Python**: Desarrollo de scripts y automatización de procesos.  
-- **Java**: Creación de aplicaciones escalables y seguras.  
-- **HTML5 & CSS3**: Desarrollo web front-end con diseño responsivo.
+### Lenguajes de Programación
+- **Python**: Desarrollo de scripts para automatización de procesos, manipulación y análisis de datos con librerías como Pandas y NumPy, implementación de ETL y desarrollo de API REST con frameworks como Flask y FastAPI.
+- **Java**: Creación de aplicaciones escalables y seguras, desarrollo de microservicios con Spring Boot, integración con bases de datos y optimización del rendimiento en entornos empresariales.
+- **HTML5 & CSS3**: Desarrollo de interfaces web responsivas, implementación de estilos dinámicos con CSS3, optimización de experiencia de usuario (UX/UI) y adaptación a estándares de accesibilidad web.
 
 ---
 
