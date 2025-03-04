@@ -75,7 +75,7 @@ Apasionado por las nuevas tecnologías, el aprendizaje continuo y la aplicación
 
 
 ---
-# English follows
+# English followers
 
 # Alberto Pérez  
 *Data Engineer | Spain*  
