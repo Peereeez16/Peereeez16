@@ -43,6 +43,8 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
 
 ### Procesamiento y Orquestación de Datos
 - **Amazon S3**: Configuración y gestión de data lakes para el almacenamiento de grandes volúmenes de datos estructurados y no estructurados, asegurando accesibilidad, seguridad y eficiencia en la recuperación de información.
+- **AWS Glue**:
+- **AWS Athena**:
 - **Apache Airflow**: Diseño y automatización de pipelines de datos, orquestación de tareas complejas con dependencias, monitoreo de ejecuciones y optimización de workflows para mejorar la eficiencia del procesamiento de datos.
 
 ### Lenguajes de Programación
