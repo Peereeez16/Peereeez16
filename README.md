@@ -122,7 +122,8 @@ I am a Data Engineer passionate about technology and solving complex problems th
 
 ### Data Processing and Orchestration  
 - **Amazon S3**: Configuration and management of data lakes for storing large volumes of structured and unstructured data, ensuring accessibility, security, and efficient data retrieval.
-- **Apache Airflow**: Design and automation of data pipelines, orchestration of complex tasks with dependencies, execution monitoring, and workflow optimization for improved data processing efficiency.  
+- **Apache Airflow**: Design and automation of data pipelines, orchestration of complex tasks with dependencies, execution monitoring, and workflow optimization for improved data processing efficiency.
+- **Docker**: Containerization of applications for consistent development and production environments, creation and management of Docker images, orchestration with Docker Compose, and deployment in cloud and on-premises infrastructures.
 
 ### Programming Languages  
 - **Python**: Development of scripts for process automation, data manipulation, and analysis using libraries such as Pandas and NumPy, ETL implementation, and REST API development with frameworks like Flask and FastAPI.  
