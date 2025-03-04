@@ -43,9 +43,10 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
 
 ### Procesamiento y Orquestación de Datos
 - **Amazon S3**: Configuración y gestión de data lakes para el almacenamiento de grandes volúmenes de datos estructurados y no estructurados, asegurando accesibilidad, seguridad y eficiencia en la recuperación de información.
-- **AWS Glue**:
-- **AWS Athena**:
+- **AWS Glue**: Desarrollo y gestión de procesos ETL serverless, automatización de tareas de integración y transformación de datos, y creación de catálogos de datos para facilitar consultas en entornos analíticos.
+- **AWS Athena**: Ejecución de consultas SQL interactivas sobre datos almacenados en Amazon S3 sin necesidad de infraestructura, optimización del rendimiento mediante particionamiento y compresión de datos.
 - **Apache Airflow**: Diseño y automatización de pipelines de datos, orquestación de tareas complejas con dependencias, monitoreo de ejecuciones y optimización de workflows para mejorar la eficiencia del procesamiento de datos.
+- **Apache Iceberg**: Gestión eficiente de datos en formato tabular dentro de data lakes, permitiendo consultas transaccionales ACID en grandes volúmenes de datos, versionado y control de esquemas sin afectar el rendimiento.
 - **Docker**: Contenerización de aplicaciones para garantizar entornos de desarrollo y producción consistentes, creación y gestión de imágenes Docker, orquestación con Docker Compose y despliegue en infraestructuras cloud y on-premise.
 
 ### Lenguajes de Programación
