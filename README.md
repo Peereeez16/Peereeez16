@@ -113,19 +113,19 @@ I am a Data Engineer passionate about technology and solving complex problems th
 ## Technical Skills  
 
 ### Databases and Tools  
-- **Databases**: Design, implementation, and management of databases.  
-- **SQL Server**: Advanced queries and optimization experience.  
-- **SSIS**: Creation of data flows and ETL processes.  
-- **SSDT**: Design and development of SQL Server database projects.  
+- **Database Design, Implementation, and Management**: Experience in relational and non-relational database modeling, data normalization, structure optimization, and schema administration.
+- **SQL Server**: Extensive experience in advanced queries, performance optimization, indexing, stored procedures, user-defined functions, and triggers.  
+- **SSIS (SQL Server Integration Services)**: Development of ETL processes for extracting, transforming, and loading data from multiple sources, automating data flows, and handling errors in integration.
+- **SSDT (SQL Server Data Tools)**: Design and development of SQL Server database projects, implementation of changes in development and production environments through version control and automated deployments.  
 
 ### Data Processing and Orchestration  
-- **Amazon S3**: Configuration and management of data lakes.  
-- **Airflow**: Workflow orchestration and automation.  
+- **Amazon S3**: Configuration and management of data lakes for storing large volumes of structured and unstructured data, ensuring accessibility, security, and efficient data retrieval.
+- **Apache Airflow**: Design and automation of data pipelines, orchestration of complex tasks with dependencies, execution monitoring, and workflow optimization for improved data processing efficiency.  
 
 ### Programming Languages  
-- **Python**: Scripting and process automation.  
-- **Java**: Development of scalable and secure applications.  
-- **HTML5 & CSS3**: Front-end web development with responsive design.
+- **Python**: Development of scripts for process automation, data manipulation, and analysis using libraries such as Pandas and NumPy, ETL implementation, and REST API development with frameworks like Flask and FastAPI.  
+- **Java**: Development of scalable and secure applications, creation of microservices with Spring Boot, database integration, and performance optimization in enterprise environments.  
+- **HTML5 & CSS3**: Development of responsive web interfaces, implementation of dynamic styles with CSS3, user experience (UX/UI) optimization, and adaptation to web accessibility standards.
 
 ---
 
