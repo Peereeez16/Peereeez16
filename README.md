@@ -65,6 +65,8 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
+
+
 ---
 
 ## Idiomas  
