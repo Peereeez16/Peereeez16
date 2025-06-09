@@ -49,26 +49,13 @@ Soy un Data Engineer apasionado por la tecnología y la resolución de problemas
 - **Apache Iceberg**: Gestión eficiente de datos en formato tabular dentro de data lakes, permitiendo consultas transaccionales ACID en grandes volúmenes de datos, versionado y control de esquemas sin afectar el rendimiento.
 - **Docker**: Contenerización de aplicaciones para garantizar entornos de desarrollo y producción consistentes, creación y gestión de imágenes Docker, orquestación con Docker Compose y despliegue en infraestructuras cloud y on-premise.
 
-### Lenguajes de Programación
-- **Python**: Desarrollo de scripts para automatización de procesos, manipulación y análisis de datos con librerías como Pandas y NumPy, implementación de ETL y desarrollo de API REST con frameworks como Flask y FastAPI.
-- **Java**: Creación de aplicaciones escalables y seguras, desarrollo de microservicios con Spring Boot, integración con bases de datos y optimización del rendimiento en entornos empresariales.
-- **HTML5 & CSS3**: Desarrollo de interfaces web responsivas, implementación de estilos dinámicos con CSS3, optimización de experiencia de usuario (UX/UI) y adaptación a estándares de accesibilidad web.
-
-## My Skills Include
-
-<h4> Languages </h4>
+## Lenguajes de Programación
 <span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
- 
-
-
 </span>
 
 ---
