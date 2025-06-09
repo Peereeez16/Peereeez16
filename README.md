@@ -1,6 +1,6 @@
 # Spanish followers
 
-# Alberto Pérez  
+# Alberto  
 *Data Engineer | España*  
 
 ## Perfil Profesional  
@@ -80,7 +80,7 @@ Apasionado por las nuevas tecnologías, el aprendizaje continuo y la aplicación
 ---
 # English followers
 
-# Alberto Pérez  
+# Alberto  
 *Data Engineer | Spain*  
 
 ## Professional Profile  
